@@ -32,8 +32,8 @@
 
 ## 📷 Cuplikan Tampilan
 
-| Home Page | Product Page | Cart Page |
-|-----------|--------------|-----------|
+| Home Page                            | Product Page                               | Cart Page                            |
+| ------------------------------------ | ------------------------------------------ | ------------------------------------ |
 | ![home](public/screenshots/home.png) | ![product](public/screenshots/product.png) | ![cart](public/screenshots/cart.png) |
 
 > Letakkan gambar cuplikan di folder `public/screenshots` agar tampil di atas.
@@ -64,3 +64,4 @@ Jika kamu merasa proyek ini bermanfaat, jangan lupa beri ⭐ di GitHub!
 📝 Lisensi
 MIT License © 2025 Adi Dharma Putra
 
+```
